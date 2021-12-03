@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "book-santa-stage-4",
-    "slug": "book-santa-stage-4",
+    "name": "updateprofile",
+    "slug": "updateprofile",
+    "privacy": "public",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +24,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.whitehatjr.updateprofile"
     }
   }
 }
